@@ -1,6 +1,6 @@
 # Relevant Links
 
-1. Intergovernmental Panel on Climate Change (IPCC) - https://www.ipcc.ch/
+1. *Intergovernmental Panel on Climate Change (IPCC)* - https://www.ipcc.ch/
 The IPCC is the leading international body for the assessment of climate change, providing scientific assessments and reports to inform policymakers.
 
 1. NASA Climate Change and Global Warming - https://climate.nasa.gov/
